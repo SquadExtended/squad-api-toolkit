@@ -26,7 +26,8 @@ Allows connection to 0-player servers by creating a synthetic local Steam Lobby.
 
 **Prerequisites**
 *   Node.js v18+
-*   A Steam Account (for the auth ticket)
+*   A Steam Account that owns Squad (for the auth ticket)
+*   Steam client running
 
 **Installation**
 Clone/Download the repo
