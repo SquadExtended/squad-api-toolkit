@@ -1,5 +1,4 @@
 # Squad API Toolkit
-*(WORK IN PROGRESS)*
 
 A collection of Node.js scripts for interacting with the Squad (AppID 393380) backend infrastructure. These tools bypass the game client to talk directly to Epic Online Services (EOS) and Steam.
 
