@@ -29,6 +29,14 @@ Allows connection to 0-player servers by creating a synthetic local Steam Lobby.
 *   A Steam Account (for the auth ticket)
 
 **Installation**
+Clone/Download the repo
 ```bash
+cd lib
 npm install
+```
+
+**Run Example Script**
+```bash
+cd lib
+node example.js
 ```
